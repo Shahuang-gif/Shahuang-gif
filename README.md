@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sha
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on musical projects
+- 🌱 I’m currently learning and practicing python
+- 💞️ I’m looking to collaborate on data analytic projects in various sectors
 - 📫 reache me out to shahuang366@gmail.com
 - 😄
